@@ -1,0 +1,28 @@
+h1{
+  text-align: center;
+  padding: 20px;
+  font-family:  "Gilroy-Semibold";
+  font-weight: 500;
+}
+
+@media (prefers-reduced-motion: no-preference)  {
+  p {
+    text-align: center;
+    padding: 25px 100px 25px 100px;    
+    float: none;
+    display: flex;
+    text-align: left;
+    font-weight: 700;
+    float: none;
+    font-size: 20px;
+    line-height: 23.44px;
+    font-family:  'Gilroy-Semibold';
+    font:10px;
+  }
+
+}
+
+
+ 
+
+
